@@ -1,0 +1,7 @@
+cv2
+scipy
+numpy
+streamlit
+PIL
+skimage
+matplotlib
